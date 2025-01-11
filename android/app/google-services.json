@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736050473458",
+    "project_id": "sizannew02",
+    "storage_bucket": "sizannew02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736050473458:android:0e7b5eb849573ce6f2e36b",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9J4RGCIBTtvgAory1wrYzyKC_44UhCJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
